@@ -1,0 +1,1 @@
+import{f as e,n as t,s as n}from"./index-7sH4PgbI.js";e();var r=t(),i=()=>(0,r.jsxs)(`div`,{className:`container p-5 text-center`,children:[(0,r.jsx)(`h2`,{children:`Page Not Found`}),(0,r.jsx)(n,{to:`/`,children:(0,r.jsx)(`button`,{className:`btn btn-primary`,children:`Go Home`})})]});export{i as default};

@@ -1,0 +1,8 @@
+# For the live site on PythonAnywhere (free accounts have no MySQL, so no mysqlclient)
+Django>=5.0,<5.3
+djangorestframework>=3.15
+djangorestframework-simplejwt>=5.3
+django-cors-headers>=4.4
+django-filter>=24.3
+python-dotenv>=1.0
+whitenoise>=6.6
